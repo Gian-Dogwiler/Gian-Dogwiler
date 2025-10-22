@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Gian
 
-<!--
-**Gian-Dogwiler/Gian-Dogwiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in **Quantum Engineering at ETH Zürich** with a background in **Electrical Engineering and Information Technology**.  
 
-Here are some ideas to get you started:
+💻 **Technical Focus:** Python, C++, C, iOS-Development, Dart (Flutter), Web-Development
+⚙️ **Tools & Workflow:** Git, CI/CD, Docker, Linux, Embedded Systems
+📚 **Research Interests:** Quantum Information Processing, Physical AI, Optics & Photonics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About My GitHub
+Most of my work is currently **private**, as it originates from:
+- Research projects at ETH Zürich
+- Internship contributions at Agtonomy and ANYbotics
+- Software developed at Interacode
+
+---
+
+📫 **Connect with me:**
+[LinkedIn](https://linkedin.com/in/giandogwiler) • [Email](mailto:gian.dogwiler@outlook.com)
